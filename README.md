@@ -21,6 +21,7 @@ To add, remove or change things on the list:
 - Test your code using [Catch](https://github.com/catchorg/Catch2).
 - Also test using sanitized builds: [AddressSanitizer, ThreadSanitizer and MemorySanitizer](https://github.com/google/sanitizers).
 - Use a fuzzer to test untrusted input: [afl](http://lcamtuf.coredump.cx/afl/), [libFuzzer](http://llvm.org/docs/LibFuzzer.html), [KLEE](http://klee.github.io/).
+- https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines
 
 ## Books
 
